@@ -1,2 +1,3 @@
 # MAD9014
-Cross Platform Application Development 1
+Weather project.
+forecast.io
